@@ -7,4 +7,4 @@ sudo chmod 777 ./cassandra-data ./thehive/application.conf ./home/thehive ./data
 
 sudo wget https://raw.githubusercontent.com/viszsec/THP/master/docker-compose.yml -O /home/thehive/docker-compose.yml
 
-sudo wget https://raw.githubusercontent.com/TheHive-Project/TheHive/master/conf/application.sample -O /thehive/application.conf
+sudo wget https://raw.githubusercontent.com/viszsec/THP/master/application.conf -O /thehive/application.conf
